@@ -1,0 +1,6 @@
+framework module Pods_DemoZonarLogin {
+  umbrella header "Pods-DemoZonarLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
